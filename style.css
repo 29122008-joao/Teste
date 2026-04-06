@@ -1,8 +1,15 @@
-body{
-    background-color: #00ffff;
-    color: antiquewhite;
+
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Doto:wght@100..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Poller+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-color: #011616; 
+    color: rgb(221, 139, 32);      
+    font-family: alice;  
+    text-align: center;
 }
 
-.imagem{
-    height: 230px;
+
+.imagem {
+    height: 650px;            
+    display: centra;            
+    margin: 100px 0;
 }
